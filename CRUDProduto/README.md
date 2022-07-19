@@ -67,11 +67,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Rodando o projeto
-1️° Opção:
-➡Partindo que você tenha o composer instalado com suas dependências, basta baixar este repositório e rodar na raiz do projeto o comando:
-$ php artisan serve
+1️° Opção:</br>
+➡Partindo que você tenha o composer instalado com suas dependências, basta baixar este repositório e rodar na raiz do projeto o comando:</br>
+$ php artisan serve</br>
 Após o comando, digite na barra do navegador:
-127.0.0.1:8000
+127.0.0.1:8000</br>
 Pronto!
 
 2° Opção:
