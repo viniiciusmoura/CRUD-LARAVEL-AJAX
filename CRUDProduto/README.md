@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Rodando o projeto
-<strong>Primeiro de tudo: 
+<strong>Primeiro de tudo:</strong><br>
     - Crie uma database no seu banco de dados local
     - Coloque seus dados no arquivo ".env" (Nome da database, usuário do banco e senha)
     - Na raiz do projeto rode o comando php artisan migrate</strong>
