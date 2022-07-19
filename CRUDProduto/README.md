@@ -72,19 +72,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
     <strong> - Coloque seus dados no arquivo ".env" (Nome da database, usuário do banco e senha)</strong><br>
     <strong> - Na raiz do projeto rode o comando  $ php artisan migrate</strong></strong>
     
-- 1️° Opção:</br>
+Subindo a aplicação:<br>
 Partindo que você tenha o composer instalado com suas dependências, basta baixar este repositório e rodar na raiz do projeto o comando:</br>
 $ php artisan serve</br>
 Após o comando, digite na barra do navegador:
 127.0.0.1:8000</br>
 Pronto!
 
-- 2° Opção:
-Baixe na sua máquina um dos servidores Xaamp, WampServer ou qualquer outro.</br>
-Coloque no na pasta correta, neste caso, testei com o Xaamp, fica em: Xaamp/htdocs</br>
-"sobe" o servidor e digite na barra do navegador: </br>
-localhost/nomedoprojeto</br>
-Pronto!
 
 
 
